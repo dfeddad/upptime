@@ -4,6 +4,7 @@ repo: upptime
 sites:
   - name: Excalidraw
     url: https://excalidraw.com
+    icon: https://excalidraw.com/favicon.ico
   - name: Excalidraw Storage
     url: https://json.excalidraw.com
   - name: Excalidraw Libraries
