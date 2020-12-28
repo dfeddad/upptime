@@ -24,6 +24,8 @@ status-website:
       href: https://github.com/excalidraw/excalidraw
     - title: Excalidraw
       href: https://excalidraw.com
+    - name: Blog
+      url: https://blog.excalidraw.com
 
 workflowSchedule:
   graphs: "0 0 * * *"
