@@ -5,6 +5,8 @@ sites:
   - name: Excalidraw
     url: https://excalidraw.com
     icon: https://excalidraw.com/favicon.ico
+  - name: Excalidraw Collaboration
+    url: https://portal.excalidraw.com
   - name: Excalidraw Storage
     url: https://json.excalidraw.com
   - name: Excalidraw Libraries
