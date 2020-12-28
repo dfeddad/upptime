@@ -10,3 +10,7 @@ sites:
     url: https://libraries.excalidraw.com
   - name: Excalidraw Blog
     url: https://blog.excalidraw.com
+
+status-website:
+  baseUrl: /upptime
+  name: Excalidraw Upptime
