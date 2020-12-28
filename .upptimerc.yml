@@ -12,7 +12,7 @@ sites:
     url: https://blog.excalidraw.com
 
 status-website:
-  baseUrl: /upptime
+  cname: status.excalidraw.com
   name: Excalidraw Status
   navbar:
     - title: Status
